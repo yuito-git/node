@@ -1,0 +1,21 @@
+h1 {
+  color: rgba(234, 33, 44, .6);
+}
+
+img {
+  width: 30vw;
+  aspect-ratio: 1;
+}
+
+input {
+  padding: 10px;
+  border-color: gray;
+}
+
+button {
+  display: inline-block;
+  padding: 8px;
+  border: 1px solid gray;
+  color: white;
+  background-color: #000;
+}
