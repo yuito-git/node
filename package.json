@@ -2,8 +2,8 @@
   "name": "server",
   "engines":{
     "node":"16.14.0",
-    "npm":"8.3.1",
-    "yarn":"1.22.17"
+    "npm":"9.2.0",
+    "yarn":"1.22.19"
   },
   "version": "1.0.0",
   "description": "",
