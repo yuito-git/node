@@ -1,0 +1,11 @@
+
+#パスワードなどの機密情報
+.env
+
+#開発に不要なファイル
+.DS_Store
+.Trashes
+Thumbs.db
+
+#node.jsのパッケージ
+node_modules/
